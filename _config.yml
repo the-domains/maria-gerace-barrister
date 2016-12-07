@@ -12,6 +12,10 @@ color:
     - '#2980B9'
 github: true
 layout_spectrum: 0.221277461426683
+author:
+  name: Maria Gerace
+  email: m.gerace@maricebyers.com
+  url: mariageracebarrister.com
 name: Maria Gerace Barrister
 navigation:
   - name: Barrister Strategy Advice
