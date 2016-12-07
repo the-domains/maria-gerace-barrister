@@ -13,6 +13,10 @@ color:
 github: true
 layout_spectrum: 0.221277461426683
 name: Maria Gerace Barrister
+navigation:
+  - name: Barrister Strategy Advice
+    url: 'http://mariageracebarrister.com'
+    type: external
 title: Fraud Corruption Corporate Wrongs Whistleblower
 content: []
 description: Representation Advice Strategy
