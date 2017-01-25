@@ -4,8 +4,8 @@ description: >-
   Mediating High Conflict Disputes, Published Australian Alternative Dispute
   Resolution Law Bulletin, Lexis Nexis, 2016. Part 1 - Volume 3 Issue 3, Part 2-
   Volume 3 Issue 4 2016.
-dateModified: '2017-01-25T01:11:36.411Z'
-datePublished: '2017-01-25T01:11:37.267Z'
+dateModified: '2017-01-25T01:11:38.990Z'
+datePublished: '2017-01-25T01:11:39.627Z'
 title: Publications
 author: []
 publisher: {}
