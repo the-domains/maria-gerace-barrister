@@ -1,17 +1,19 @@
-typography_spectrum: 0.15040250209777956
+layout_spectrum: 0.47022873345365984
+typography_spectrum: 0.6530823365882003
 color:
-  brandStrength: 0.5063987876297814
-  lightness: 0.42186836610704953
-  saturation: 0.8087845630385904
-  rhythmicContrast: 0.5150321669031931
+  brandStrength: 0.08957371969937836
+  lightness: 0.8462100950554751
+  saturation: 0.8707711508504973
+  rhythmicContrast: 0.43679037901157935
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.221277461426683
 author:
   name: Maria Gerace
   email: m.gerace@maricebyers.com
